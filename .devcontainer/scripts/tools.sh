@@ -7,4 +7,6 @@ sudo apt-get update
 sudo apt-get install -y jq less
 . .devcontainer/scripts/gcloud.sh
 . .devcontainer/scripts/terraform.sh
+. .devcontainer/scripts/terraformDocs.sh
+. .devcontainer/scripts/preCommit.sh
 echo "---tools done---"

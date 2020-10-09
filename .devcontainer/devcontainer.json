@@ -3,6 +3,7 @@
     "extensions": [
         "DumpySquare.vscode-f5-fast",
         "hashicorp.terraform",
+        "eamodio.gitlens",
         "github.vscode-pull-request-github",
         "github.github-vscode-theme",
         "ms-vsliveshare.vsliveshare",
